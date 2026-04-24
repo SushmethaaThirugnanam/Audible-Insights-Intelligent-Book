@@ -23,5 +23,3 @@ Built with Python, pandas, scikit-learn, and NLP techniques.
 - **Visualization**: matplotlib, seaborn, plotly
 
 ---
-
-## 📂 Project Structure
